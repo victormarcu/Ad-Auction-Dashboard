@@ -4,8 +4,8 @@ This is a project made by 4 other colleagues &amp; myself for our year 2 COMP221
 To run, make sure to get the two folders required as input for the program from here:
 https://drive.google.com/open?id=0B18c_Jt-Sv02UEIwMVp5dVllMWM
 
-As a team, we were requested to work as a team of 5 and succesfully employ AGILE methodologies 
-such as SCRUM to develop a real program for a possible company.
+The assignment consisted of us working as a team of 5 and succesfully employing 
+AGILE methodologies such as SCRUM to develop a real program for a possible company.
 
 Our task was to use the two folders with data in the form of 34mb and 640mb .csv files 
 and project relevant charts to the clients about their ad campaings through a intuitive,
