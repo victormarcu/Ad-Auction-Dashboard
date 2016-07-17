@@ -1,4 +1,4 @@
-# COMP2211
+# Ad Auction Dashboard
 This is a project made by 4 other colleagues &amp; myself for our year 2 COMP2211 assignment.
 
 To run, make sure to get the two folders required as input for the program from here:
