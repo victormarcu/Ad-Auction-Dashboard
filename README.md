@@ -1,7 +1,7 @@
 # Ad Auction Dashboard
-This is a project made by 4 other colleagues &amp; myself for our year 2 COMP2211 assignment.
+This is a project built by myself and 4 other colleagues for our year 2 COMP2211 assignment.
 
-To run, make sure to get the two folders required as input for the program from here:
+To run it, make sure to get one of the two data folders required as input for the program from here:
 https://drive.google.com/open?id=0B18c_Jt-Sv02UEIwMVp5dVllMWM
 
 The assignment consisted of us working as a team of 5 and succesfully employing 
